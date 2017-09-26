@@ -35,12 +35,14 @@ for ii = 1:7
 blast_human.Hits(ii).HSPs(1)
 blast_human.Hits(ii).HSPs(1).Identities
 blast_human.Hits(ii).HSPs(1).Alignment
+
+
 end
 
 %It is easy to see that the overall score for each hit drops precipitously
 %as you evaluate each subsequent hit. Additionally, only the first hit has 
 %a substantial match, which is 99% matched between 279 base pairs. After first 
-%hit, there is only a 35 basepair region with a 97% match. 
+%hit, 
 
 
 
