@@ -1,4 +1,12 @@
 % Inclass assignment 9
+
+%GB comments
+1) 100
+2) 100
+3) 90 Your code does not appropriately identify the top three matches from other species. Your code is spiting data out on matching to human. Start your iterations from 2 and most of these issues will be fixed. 
+4) 100
+Overall: 98
+
 clear all
 % The accession number for human NOTCH1 mRNA is AF308602
 % 1. Read the information from this entry into matlab
